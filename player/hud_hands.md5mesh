@@ -41,7 +41,7 @@ joints {
 mesh {
 	// meshes: skin.pn
 
-	shader "/home/moop/games/redeclipse/redeclipse/data/models/actors/player/RE_Player_cavity.tga"
+	shader "/home/moop/games/redeclipse/redeclipse/models/actors/player/RE_Player_cavity.tga"
 
 	numverts 1144
 	vert 0 ( 0.327030 0.484152 ) 0 1
