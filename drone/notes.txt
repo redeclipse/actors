@@ -1,0 +1,10 @@
+Texture is blank for now, will do it later,
+4 bones:
+Head, which goes from the middle and up.
+Gun, self explanatory.
+Muzzle, i attached the weapon there (i know it isn't the right name lol)
+Proleller, which isn't used right now.
+Forward, Left, Right, Backward animations for moving around.
+Death animation is extremely basic.
+Reload, the gun arm goes down, and up, and is set to be animated independently from the other parts of the model.
+The model is centered inside blender/in the game, so i set the mdltrans to 0 0 0.7 so it doesn't stick half the body underground the geometry.
